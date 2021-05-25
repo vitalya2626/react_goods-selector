@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,QACE,WAAY,CACb,SAGC,SAAU","file":"main.5a92d32c.chunk.css","sourcesContent":[".trueEl {\n  color: green;\n}\n\n.falseEl {\n  color: red;\n}\n"]}
